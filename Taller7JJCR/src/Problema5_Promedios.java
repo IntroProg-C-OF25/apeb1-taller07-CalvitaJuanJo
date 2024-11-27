@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 /***
  * Problema 5
+ * 
  * Generar un programa Java que permita ingresar 4 estudiantes; por cada uno de 
  * ellos ingresar el nombre del estudiante, el promedio de ciclo. Presentar el 
  * siguiente reporte
@@ -12,7 +13,7 @@ import java.util.Scanner;
  * Estudiante4	5	Reprobado
  * Atención; con base al valor del promedio, usted debe asignar en cada registro 
  * el tipo Aprobado o Reprobado.
- * @author UTPL
+ * @author Juan Jose
  */
 public class Problema5_Promedios {
     public static void main(String[] args) {
@@ -38,15 +39,15 @@ public class Problema5_Promedios {
  * run:
  * Dame nombre del estudiante y su promedio del EST_1: juan 5 
  * |nombre |promedio | estado|
- * | juan  | 5,00    | Reprobado	
+ * | juan  | 5,00    | Reprobado|	
  * Dame nombre del estudiante y su promedio del EST_2: pedro 5
- * |nombre | promedio | estado|
- * | pedro |   5,00   | Reprobado	| 
+ * |nombre | promedio| estado|
+ * | pedro |   5,00  | Reprobado| 
  * Dame nombre del estudiante y su promedio del EST_3: angel 3
  * |nombre |promedio | estado|
- * | angel | 3,00    | Reprobado	|
+ * | angel | 3,00    | Reprobado|
  * Dame nombre del estudiante y su promedio del EST_4: chofa 1
  * |nombre |promedio | estado|
- * | chofa | 1,00    | Reprobado	|
+ * | chofa | 1,00    | Reprobado|
  * BUILD SUCCESSFUL (total time: 48 seconds)
  */

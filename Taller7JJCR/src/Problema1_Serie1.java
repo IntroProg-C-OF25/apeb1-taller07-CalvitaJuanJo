@@ -1,7 +1,10 @@
 /***
  * Problema 1
+ * 
  * Realizar un programa Java que permita presentar en pantalla la siguiente 
  * secuencia: 1/10, 2/11, 3/12, 4/13, 5/14, 6/15.
+ * 
+ * @author Juan Jose
  */
 import java.util.Scanner;
 
